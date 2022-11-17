@@ -1,1 +1,1 @@
-# Deploying a Regression model in Heroku using Flask and using Github to push code
+This is a multiple regression model to predict price of computer for given specs
